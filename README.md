@@ -9,9 +9,8 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,azure,mysql,pandas,numpy,sklearn,tensorflow,pyspark,git,jupyter,html,css" />
-</p>
+Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • Git • Jupyter
+
 
 ---
 
