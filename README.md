@@ -35,7 +35,6 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
 ## 🏆 Achievements
 - 🥇 **CSE Department Topper** (CGPA 9.7+)
 - 👩‍💻 **Participant – Women I Hackathon (Infosys)**
-- 🔄 Transitioned from **Biology → Computer Science**
 - 🤖 Built multiple **real-world ML projects**
 
 ---
