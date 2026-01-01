@@ -9,8 +9,28 @@
 ---
 
 ## 🛠️ Languages & Tools
-Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • Git • Jupyter
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,azure,mysql,pandas,numpy,sklearn,tensorflow,pyspark,git,jupyter,html,css" />
+</p>
 
+---
+
+## 🚀 Featured Projects
+- 🌱 **Women Career Break Job Recommendation System**  
+  AI-based job recommendation system supporting women returning to work  
+
+- 🤖 **Email Assistant Agent using LangGraph (Infosys)**  
+  Intelligent email assistant built using **LangGraph** for intent detection, tone analysis, and automated actions  
+
+- 💳 **Credit Card Fraud Detection**  
+  Machine learning model to detect fraudulent transactions  
+
+- ⚡ **Power System Fault Detection**  
+  ML-based system for fault classification in power systems  
+
+- 🌳 **Tree Species Classification**  
+  Machine learning model to identify tree species
+  
 ---
 
 ## 🏆 Achievements
@@ -20,19 +40,6 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
 - 🤖 Built multiple **real-world ML projects**
 
 ---
-
-## 🚀 Featured Projects
-- 🌱 **Women Career Break Job Recommendation System**  
-  AI-based system recommending job roles for women returning to work
-
-- 💳 **Credit Card Fraud Detection**  
-  Machine learning model to identify fraudulent transactions
-
-- ⚡ **Power System Fault Detection**  
-  ML-based fault classification system
-
-- 🌳 **Tree Species Classification**  
-  Classification model for identifying tree species
   
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328 
