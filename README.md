@@ -39,7 +39,7 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
 
 ---
  ## Streaks
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Lingaeswari-176)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=Lingaeswari-176&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
  ---
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328 
