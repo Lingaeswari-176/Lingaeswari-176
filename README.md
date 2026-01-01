@@ -35,8 +35,8 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
   Classification model for identifying tree species
   
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** Add link later  
-- 📧 **Email:** Optional
+- 💼 **LinkedIn:**https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328 
+- 📧 **Email:** lingaeswarikathir@gmail.com
 ---
 
 ⭐ *Always learning, building, and improving.*
