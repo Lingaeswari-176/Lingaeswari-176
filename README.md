@@ -38,7 +38,9 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
 - 🤖 Built multiple **real-world ML projects**
 
 ---
-  
+ ## Streaks
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Lingaeswari-176)](https://git.io/streak-stats)
+ ---
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328 
 - 📧 **Email:** lingaeswarikathir@gmail.com
