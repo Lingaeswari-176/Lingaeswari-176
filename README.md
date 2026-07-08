@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Lingaeswari  
 
-🎓 **Computer Science Engineering Student | AI & Data Enthusiast**
+🎓 ** Prefinal year Computer Science Engineering Student | AI & Data Enthusiast**
 
 🌱 Learning **Python, Machine Learning, Data Analytics & Azure**  
 💬 Ask me about **ML projects, data analysis & Python**  
@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • Git • Jupyter
+Python • SQL • Pandas • NumPy • Scikit-learn  • Artificial intelligence • Git • Jupyter
 
 
 ---
@@ -33,7 +33,7 @@ Python • SQL • Pandas • NumPy • Scikit-learn • Azure • PySpark • G
 ---
 
 ## 🏆 Achievements
-- 🥇 **CSE Department Topper** (CGPA 9.7+)
+- 🥇 **CSE Department Topper** (CGPA 9.6+)
 - 👩‍💻 **Participant – Women I Hackathon (Infosys)**
 - 🤖 Built multiple **real-world ML projects**
 
