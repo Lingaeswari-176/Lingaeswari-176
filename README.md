@@ -33,7 +33,7 @@ Python • SQL • Pandas • NumPy • Scikit-learn  • Artificial intelligenc
 ---
 
 ## 🏆 Achievements
-- 🥇 **CSE Department Topper** (CGPA 9.6+)
+- 🥇 **CSE Department Topper** 
 - 👩‍💻 **Participant – Women I Hackathon (Infosys)**
 - 🤖 Built multiple **real-world ML projects**
 
