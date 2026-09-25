@@ -36,6 +36,7 @@ Python • SQL • Pandas • NumPy • Scikit-learn  • Artificial intelligenc
 - 🥇 **CSE Department Topper** 
 - 👩‍💻 **Participant – Women I Hackathon (Infosys)**
 - 🤖 Built multiple **real-world ML projects**
+- Innovation Lead at University's Code Club
 
 ---
  ## Streaks
