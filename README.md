@@ -1,50 +1,87 @@
-# Hi there 👋 I'm Lingaeswari  
+👋 Hi, I'm Lingaeswari
+🎓 CSE Student | 🤖 AI/ML Enthusiast | ☁️ Microsoft Azure AI Certified
 
-🎓 ** Prefinal year Computer Science Engineering Student | AI & Data Enthusiast**
+I'm a Pre final year Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Generative AI, AI Agents, and Cloud Technologies.
 
-🌱 Learning **Python, Machine Learning, Data Analytics & Azure**  
-💬 Ask me about **ML projects, data analysis & Python**  
-🎨 Fun fact: I love **sketching portraits** and listening to **soft music**
+I enjoy building practical AI/ML projects that solve real-world problems and continuously expanding my skills in Microsoft Azure and intelligent applications.
 
----
+🚀 Featured Projects
+🤖 AI Email Assistant — LangGraph
 
-## 🛠️ Languages & Tools
-Python • SQL • Pandas • NumPy • Scikit-learn  • Artificial intelligence • Git • Jupyter
+An intelligent email assistant built with LangGraph for analyzing emails and supporting intelligent email workflows.
 
+Tech: Python • LangGraph • AI Agents • NLP
 
----
+🌱 Women Career Restart Job Recommender
 
-## 🚀 Featured Projects
-- 🌱 **Women Career Break Job Recommendation System**  
-  AI-based job recommendation system supporting women returning to work  
+An AI-powered job recommendation system designed to support women returning to their careers after a break by matching candidates with suitable career opportunities.
 
-- 🤖 **Email Assistant Agent using LangGraph (Infosys)**  
-  Intelligent email assistant built using **LangGraph** for intent detection, tone analysis, and automated actions  
+Tech: Python • Machine Learning • Recommendation Systems • AI
 
-- 💳 **Credit Card Fraud Detection**  
-  Machine learning model to detect fraudulent transactions  
+💳 Credit Card Fraud Detection
 
-- ⚡ **Power System Fault Detection**  
-  ML-based system for fault classification in power systems  
+A machine learning project focused on identifying fraudulent credit card transactions using classification techniques.
 
-- 🌳 **Tree Species Classification**  
-  Machine learning model to identify tree species
-  
----
+Tech: Python • Machine Learning • Scikit-learn • Data Analysis
 
-## 🏆 Achievements
-- 🥇 **CSE Department Topper** 
-- 👩‍💻 **Participant – Women I Hackathon (Infosys)**
-- 🤖 Built multiple **real-world ML projects**
-- Innovation Lead at University's Code Club
+🏅 Certifications
+☁️ Microsoft Certified: Azure AI
 
----
- ## Streaks
-- [![GitHub Streak](https://streak-stats.demolab.com?user=Lingaeswari-176&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
- ---
-## 📫 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328 
-- 📧 **Email:** lingaeswarikathir@gmail.com
----
+Microsoft Azure AI Certification — Completed ✅
 
-⭐ *Always learning, building, and improving.*
+Skills demonstrated:
+
+Azure AI Artificial Intelligence Machine Learning Generative AI Azure Services
+
+🛠️ Tech Stack
+💻 Programming & Data
+
+Python SQL Pandas NumPy
+
+🤖 AI & Machine Learning
+
+Artificial Intelligence Machine Learning Scikit-learn NLP Generative AI
+
+☁️ Cloud & AI
+
+Microsoft Azure Azure AI AI Agents LangGraph
+
+🔧 Tools
+
+Git GitHub Jupyter Notebook
+
+🏆 Achievements
+
+🥇 CSE Department Topper
+
+☁️ Microsoft Azure AI Certified
+
+👩‍💻 Participant – Women I Hackathon, Infosys
+
+🤖 Built multiple AI/ML projects
+
+💡 Innovation Lead – University Code Club
+
+🌱 Currently Exploring
+
+🤖 Generative AI
+
+🧠 AI Agents & Agentic AI
+
+☁️ Azure AI Services
+
+📊 Data Analytics
+
+🔬 Advanced Machine Learning
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lingaeswari-176&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingaeswari-176&theme=tokyonight&hide_border=true" /> </div>
+📫 Connect With Me
+
+💼 LinkedIn: lingaeswari-kathirvel
+
+📧 Email: lingaeswarikathir@gmail.com
+
+💫 Learn • Build • Innovate
+
+Building intelligent solutions with AI, Azure & Machine Learning. 🚀
