@@ -78,7 +78,7 @@ Git GitHub Jupyter Notebook
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lingaeswari-176&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingaeswari-176&theme=tokyonight&hide_border=true" /> </div>
 📫 Connect With Me
 
-💼 LinkedIn: lingaeswari-kathirvel
+💼 LinkedIn: https://www.linkedin.com/in/lingaeswari-kathirvel-40636b328
 
 📧 Email: lingaeswarikathir@gmail.com
 
